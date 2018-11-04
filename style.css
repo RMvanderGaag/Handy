@@ -117,21 +117,15 @@
 
 .banner1 {
 	left: 240px;
-	opacity: 1; 
 }
-
 
 .banner2{
 	left: 570px;
-	opacity: 1;
 }
 
 .banner3{
 	left: 900px;
-	opacity: 1;
 }
-
-
 
 .YellowBanner{
 	width: 100%;
@@ -141,7 +135,6 @@
 	
 	margin-top: 710px;
 	left: 0px;
-
 }
 
 .YellowBanner > h1 {
